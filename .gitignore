@@ -367,3 +367,4 @@ venv.bak/
 
 # VSCode settings
 .vscode/
+test.py
